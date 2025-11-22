@@ -99,8 +99,9 @@
   </a>
 </p>
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=vishwa633&show_icons=true&locale=en" alt="vishwa633" /></p>
-  
-  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwa633&" alt="vishwa633" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwa633&show_icons=true&locale=en&layout=compact" alt="vishwa633" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwa633&show_icons=true&locale=en" alt="vishwa633" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwa633&" alt="vishwa633" /></p>
+
