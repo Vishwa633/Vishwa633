@@ -1,3 +1,5 @@
+<img align="center" width="200" src="https://miro.medium.com/v2/0*eJrmp6RtjgbdTSKv.gif"/>
+
 <h1 align="center">Hi 👋, I'm Vishwa Nethsara</h1>
 <h3 align="center">A passionate Frontend, Java & AIML developer from Sri Lanka</h3>
 
