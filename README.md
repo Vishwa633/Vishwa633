@@ -1,7 +1,8 @@
-<img align="center" width="200" src="https://miro.medium.com/v2/0*eJrmp6RtjgbdTSKv.gif"/>
-
-<h1 align="center">Hi 👋, I'm Vishwa Nethsara</h1>
-<h3 align="center">A passionate Frontend, Java & AIML developer from Sri Lanka</h3>
+<div align="center">
+  <img width="20%" src="https://miro.medium.com/v2/0*eJrmp6RtjgbdTSKv.gif"/>
+  <h1>Hi 👋, I'm Vishwa Nethsara</h1>
+  <h3>A passionate Frontend, Java & AIML developer from Sri Lanka</h3>
+</div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwa633&label=Profile%20views&color=0e75b6&style=flat" alt="vishwa633" /> </p>
