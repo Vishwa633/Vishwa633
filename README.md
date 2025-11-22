@@ -33,16 +33,13 @@
 </h3>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"
-         style="border:3px solid #00979D; border-radius:10px; padding:5px;"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" style="border:3px solid #00979D; border-radius:10px; padding:5px;"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"
-         style="border:3px solid #563d7c; border-radius:10px; padding:5px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="border:3px solid #563d7c; border-radius:10px; padding:5px;"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"
-         style="border:3px solid #264de4; border-radius:10px; padding:5px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="border:3px solid #264de4; border-radius:10px; padding:5px;"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"
@@ -102,14 +99,86 @@
   </a>
 </p>
 
-  <div style="flex: 1; min-width: 300px; max-width: 400px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=vishwa633&show_icons=true&locale=en" alt="vishwa633" width="42.6%" />
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwa633&" alt="vishwa633" width="45%" />
+
+
+-----
+
+<h2 align="center">📊 My GitHub Statistics</h2>
+
+
+<br>
+
+
+
+
+
+
+
+<table style="width: 100%;
+      border-collapse: collapse; /* clean border */
+      border: 2px solid black;">
+  <tr>
+    <td style="padding: 10px;
+      text-align: left;
+      border-left: 2px solid black;">
+      <br>
+      <div align="center" style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;">
+
+  <!-- GitHub Stats Card -->
+  <div style="
+      background:#1e1e2f;
+      padding:20px;
+      border-radius:15px;
+      border:1px solid #ffffff30;
+      box-shadow:0 4px 15px rgba(0,0,0,0.3);
+      width:320px;">
+    <div style="border-bottom:1px solid white; padding-bottom:10px; margin-bottom:10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=vishwa633&show_icons=true&theme=dark&hide_border=false" 
+           style="border-radius:10px; width:90%;" />
+    </div>
   </div>
-  <br>
-  <div style="flex: 1; min-width: 300px; max-width: 400px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwa633&show_icons=true&locale=en&layout=compact" alt="vishwa633" width="42.6%" />
   </div>
-  
+      <br>
+        <div align="center" style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;">
+  <!-- Streak Stats Card -->
+  <div style="
+      background:#1e1e2f;
+      padding:20px;
+      border-radius:15px;
+      border:1px solid #ffffff30;
+      box-shadow:0 4px 15px rgba(0,0,0,0.3);
+      width:320px;">
+    <div style="border-bottom:1px solid white; padding-bottom:10px; margin-bottom:10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=vishwa633&theme=dark&hide_border=false" 
+           style="border-radius:10px; width:90%;" />
+    </div>
+  </div>
 </div>
+<br>
+    </td>
+    <td style="padding: 10px;
+      text-align: left;
+      border-left: 2px solid black;">
+      <div align="center" style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;">
+  <!-- Languages Card -->
+  <div style="
+      border-radius:15px;
+      border:5px solid white;
+      width:100%; max-width:450px;">
+
+  <div style="border-top:1px solid white; padding-top:10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwa633&layout=compact&theme=dark&hide_border=false" 
+           style="border-radius:10px; width:100%;" />
+    </div>
+  </div>
+
+</div>
+    </td>
+  </tr>
+  
+</table>
+
+
+
+
 
