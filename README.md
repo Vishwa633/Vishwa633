@@ -13,21 +13,19 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-<h3 align="center" style="font-family: Arial, sans-serif; color: #333333; margin-bottom: 10px;">
+<h3 align="left" style="font-family: Arial, sans-serif; color: #333333; margin-bottom: 10px;">
   Connect with me:
 </h3>
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/vishwa nethsara" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishwa nethsara" height="30" width="40" style="border:3px solid #0e76a8; border-radius:10px; padding:5px;"/></a>
 <a href="https://fb.com/vishwa nethsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vishwa nethsara" height="30" width="40" style="border:3px solid #1877f2; border-radius:10px; padding:5px;"/></a>
 <a href="https://instagram.com/vishw.a633" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishw.a633" height="30" width="40" style="border:3px solid #e1306c; border-radius:10px; padding:5px;"/></a>
 </p>
 
-<br>
-
-<h3 align="center" style="font-family: Arial, sans-serif; color: #333333; margin-bottom: 10px;">
+<h3 align="left" style="font-family: Arial, sans-serif; color: #333333; margin-bottom: 10px;">
   Languages and Tools:
 </h3>
-<p align="center">
+<p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"
          style="border:3px solid #00979D; border-radius:10px; padding:5px;"/>
@@ -98,8 +96,18 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwa633&show_icons=true&locale=en&layout=compact" alt="vishwa633" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwa633&show_icons=true&locale=en" alt="vishwa633" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwa633&" alt="vishwa633" /></p>
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 40px 0;">
+  
+  <div style="flex: 1; min-width: 300px; max-width: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=vishwa633&show_icons=true&locale=en" alt="vishwa633" width="50%" />
+  </div>
+  
+  <div style="flex: 1; min-width: 300px; max-width: 400px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwa633&" alt="vishwa633" width="50%" />
+  </div>
+  
+  <div style="flex: 1; min-width: 300px; max-width: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwa633&show_icons=true&locale=en&layout=compact" alt="vishwa633" width="40%" />
+  </div>
+  
+</div>
