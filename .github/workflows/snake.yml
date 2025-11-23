@@ -1,97 +1,41 @@
-name: GitHub Snake Game
-
-
+name: Generate Snake
 
 on:
-
-  # Schedule the workflow to run daily at midnight UTC
-
   schedule:
+    - cron: "0 */12 * * *"     # runs every 12 hours
+  workflow_dispatch:            # manual trigger
 
-    - cron: "0 0 * * *"
-
-
-
-  # Allow manual triggering of the workflow
-
-  workflow_dispatch:
-
-
-
-  # Trigger the workflow on pushes to the main branch
-
-  push:
-
-    branches:
-
-      - main
-
-
+permissions:
+  contents: write               # allow pushing files/branches
+  id-token: write
 
 jobs:
-
   generate:
-
     runs-on: ubuntu-latest
-
-    timeout-minutes: 10
-
-
-
     steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      # Step 1: Checkout the repository
-
-      - name: Checkout Repository
-
-        uses: actions/checkout@v3
-
-
-
-      # Step 2: Generate the snake animations
-
-      - name: Generate GitHub Contributions Snake Animations
-
+      - name: Generate snake SVG
         uses: Platane/snk@v3
-
         with:
+          github_user_name: Vishwa633
+          outputs: dist/github-contribution-grid-snake.svg
 
-          # GitHub username to generate the animation for
-
-          github_user_name: ${{ github.repository_owner }}
-
-
-
-          # Define the output files and their configurations
-
-          outputs: |
-
-            dist/github-snake.svg
-
-            dist/github-snake-dark.svg?palette=github-dark
-
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
+      - name: Create output branch and commit generated file
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b output || git checkout output
+          mkdir -p dist
+          # ensure file exists
+          if [ ! -f dist/github-contribution-grid-snake.svg ]; then
+            echo "ERROR: snake SVG not found!" >&2
+            ls -la
+            exit 1
+          fi
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "chore: update snake SVG" || echo "no changes to commit"
+          git push --set-upstream origin output --force
         env:
-
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
-
-      # Step 3: Deploy the generated files to the 'output' branch
-
-      - name: Deploy to Output Branch
-
-        uses: peaceiris/actions-gh-pages@v3
-
-        with:
-
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-
-          publish_dir: ./dist
-
-          publish_branch: output
-
-          # Optionally, you can set a custom commit message
-
-          commit_message: "Update snake animation [skip ci]"
