@@ -110,7 +110,7 @@
 
  
 
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwa633&theme=dark)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwa633&theme=dark&langs_count=10)
 
    
   </div>
