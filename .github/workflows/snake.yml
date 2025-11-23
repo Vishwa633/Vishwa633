@@ -1,41 +1,59 @@
-name: Generate Snake
+name: GitHub Snake Game
 
 on:
   schedule:
-    - cron: "0 */12 * * *"     # runs every 12 hours
-  workflow_dispatch:            # manual trigger
+    - cron: "0 0 * * *"   # daily at midnight UTC
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
-  contents: write               # allow pushing files/branches
-  id-token: write
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+    timeout-minutes: 10
 
-      - name: Generate snake SVG
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate GitHub Contributions Snake Animations (SVG + GIF)
         uses: Platane/snk@v3
         with:
-          github_user_name: Vishwa633
-          outputs: dist/github-contribution-grid-snake.svg
-
-      - name: Create output branch and commit generated file
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git checkout -b output || git checkout output
-          mkdir -p dist
-          # ensure file exists
-          if [ ! -f dist/github-contribution-grid-snake.svg ]; then
-            echo "ERROR: snake SVG not found!" >&2
-            ls -la
-            exit 1
-          fi
-          git add dist/github-contribution-grid-snake.svg
-          git commit -m "chore: update snake SVG" || echo "no changes to commit"
-          git push --set-upstream origin output --force
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Debug — show dist contents
+        run: |
+          echo "=== dist listing ==="
+          ls -la dist || true
+          echo "=== head of any svg (first 30 lines) ==="
+          for f in dist/*; do
+            echo "---- $f ----"
+            head -n 30 "$f" || true
+          done
+
+      - name: Fail if no generated files
+        run: |
+          if [ -z "$(ls -A dist 2>/dev/null)" ]; then
+            echo "ERROR: no files generated in dist/" >&2
+            exit 1
+          fi
+
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "chore: update snake animation [skip ci]"
