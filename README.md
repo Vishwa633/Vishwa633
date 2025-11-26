@@ -75,8 +75,7 @@
       box-shadow:0 4px 15px rgba(0,0,0,0.3);
       width:320px;">
     <div style="border-bottom:1px solid white; padding-bottom:10px; margin-bottom:10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=vishwa633&show_icons=true&theme=dark&hide_border=false" 
-           style="border-radius:10px; width:90%;" />
+      <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=vishwa633&show_icons=true&theme=dark&hide_border=false" style="border-radius:10px; width:90%;" />
     </div>
   </div>
   </div>
@@ -91,7 +90,7 @@
       box-shadow:0 4px 15px rgba(0,0,0,0.3);
       width:320px;">
     <div style="border-bottom:1px solid white; padding-bottom:10px; margin-bottom:10px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=vishwa633&theme=dark&hide_border=false" 
+      <img  src="https://streak-stats.demolab.com?user=vishwa633&theme=dark&hide_border=false" 
            style="border-radius:10px; width:90%;" />
     </div>
   </div>
@@ -110,7 +109,8 @@
 
  
 
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwa633&theme=dark&langs_count=10)
+   ![Top Langs](https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=vishwa633&theme=dark&langs_count=10
+)
 
    
   </div>
