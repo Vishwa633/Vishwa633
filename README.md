@@ -30,10 +30,10 @@
 <a href="https://instagram.com/vishw.a633" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishw.a633" height="30" width="40" style="border:3px solid #e1306c; border-radius:10px; padding:5px;"/></a>
   <a href="https://your-portfolio-link.com" target="_blank">
   <img align="center" 
-       src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" 
+       src="https://img.icons8.com/fluency/48/globe-earth.png" 
        alt="portfolio" 
-       height="35" 
-       width="35" />
+       height="32" 
+       width="32" />
 </a>
 </p>
 
