@@ -28,6 +28,13 @@
 <a href="https://www.linkedin.com/in/vishwa-nethsara-00a0a3372/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishwa nethsara" height="30" width="40" style="border:3px solid #0e76a8; border-radius:10px; padding:5px;"/></a>
 <a href="https://fb.com/vishwa nethsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vishwa nethsara" height="30" width="40" style="border:3px solid #1877f2; border-radius:10px; padding:5px;"/></a>
 <a href="https://instagram.com/vishw.a633" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishw.a633" height="30" width="40" style="border:3px solid #e1306c; border-radius:10px; padding:5px;"/></a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+  <img align="center" 
+       src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" 
+       alt="portfolio" 
+       height="35" 
+       width="35" />
+</a>
 </p>
 
 -----------
