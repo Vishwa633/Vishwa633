@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/themes/night/banner-55bb12eca6.svg" width="100%" alt="Vishwa Nethsara — AI undergraduate and full-stack developer in Sri Lanka. December edition." />
+<img src="./assets/themes/night/banner-b1bc6d31f1.svg" width="100%" alt="Vishwa Nethsara — AI undergraduate and full-stack developer in Sri Lanka. December edition." />
 
 <a href="https://portfolio-iota-ten-vj1uzrw2no.vercel.app/"><img width="56" height="56" src="./assets/themes/night/link-portfolio-844014614c.svg" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/vishwa-nethsara-00a0a3372/"><img width="56" height="56" src="./assets/themes/night/link-linkedin-866305c91d.svg" alt="LinkedIn" /></a>
