@@ -1,139 +1,53 @@
 <div align="center">
-  <img width="15%" src="https://miro.medium.com/v2/0*eJrmp6RtjgbdTSKv.gif"/>
-  <h1>Hi 👋, I'm Vishwa Nethsara</h1>
-  <h3>A passionate Frontend, Java & AIML developer from Sri Lanka</h3>
+
+<h1>Vishwa Nethsara</h1>
+<p><strong>AI undergraduate · Full-stack developer · Sri Lanka</strong></p>
+<p>🎄 Happy holidays from Sri Lanka!</p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-205945?style=for-the-badge)](https://portfolio-iota-ten-vj1uzrw2no.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-132739?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishwa-nethsara-00a0a3372/)
+[![Email](https://img.shields.io/badge/Email-8d3e40?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwanethsara633@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-132739?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vishw.a633)
+
+![Profile views](https://komarev.com/ghpvc/?username=vishwa633&label=Profile%20views&color=205945&style=flat-square)
+
 </div>
 
+## About me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwa633&label=Profile%20views&color=0e75b6&style=flat" alt="vishwa633" /> </p>
+I'm an IT undergraduate specialising in AI in Sri Lanka. I build machine learning projects and the interfaces people use to interact with them. I'm currently learning Java and Spring Boot alongside AI/ML. Ask me about Java or machine learning. I also think I'm funny.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishwa633" alt="vishwa633" /></a> </p>
-<br>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+## Selected projects
 
-- 🌱 I’m currently learning **Java Springboot & AIML**
+| Project | What I worked on |
+| :--- | :--- |
+| **Smart Solar Installation & Grid Compliance** | Worked on rule-based LangGraph workflows for a team-built rooftop solar planning platform. The sizing workflow estimates system size, panel count and inverter size from monthly electricity usage. |
+| **[ChurnGuard AI](https://github.com/Vishwa633/Telecom-Customer-Churn-Prediction-System)** · [Live demo](https://churnguard-ai-theta.vercel.app) | Independently built a telecom churn prediction system with a reusable scikit-learn pipeline, FastAPI, React and Streamlit. |
+| **[Agrolink](https://github.com/Vishwa633/Agrolink)** | A farming community app with crop information, Q&A and image-based crop disease prediction. |
+| **[Loan Approval Prediction](https://github.com/Vishwa633/AIML-Loan_Prediction-)** | Independently built a notebook that preprocesses applicant data and compares classifiers for loan approval prediction. |
 
-- 💬 Ask me about **Java & Machine Learning**
+## Languages, frameworks & tools
 
-- 📫 How to reach me **vishwanethsara633@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-<br></br>
------
-<h2 align="center">
-  Connect with me:
-</h2>
-<p align="center">
-<a href="https://www.linkedin.com/in/vishwa-nethsara-00a0a3372/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishwa nethsara" height="30" width="40" style="border:3px solid #0e76a8; border-radius:10px; padding:5px;"/></a>
-<a href="https://fb.com/vishwa nethsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vishwa nethsara" height="30" width="40" style="border:3px solid #1877f2; border-radius:10px; padding:5px;"/></a>
-<a href="https://instagram.com/vishw.a633" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishw.a633" height="30" width="40" style="border:3px solid #e1306c; border-radius:10px; padding:5px;"/></a>
-  <a href="https://portfolio-iota-ten-vj1uzrw2no.vercel.app" target="_blank">
-  <img align="center" 
-       src="https://img.icons8.com/fluency/48/globe-earth.png" 
-       alt="portfolio" 
-       height="32" 
-       width="32" />
-</a>
-</p>
-
------------
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=arduino,react,bootstrap,html,css,vscode,github,tailwind" />
-    <br>
-    <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,java,spring,mysql,tensorflow,scikitlearn,r,git" /><br>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,r,java,spring,mysql,git,arduino&amp;perline=9" alt="Python, TensorFlow, scikit-learn, R, Java, Spring, MySQL, Git and Arduino" /><br />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,bootstrap,tailwind,flutter,vscode,github&amp;perline=10" alt="React, Node.js, JavaScript, HTML, CSS, Bootstrap, Tailwind, Flutter, VS Code and GitHub" />
 </div>
 
-<br/>
+## GitHub activity
 
-
------
-
-<h2 align="center">📊 My GitHub Statistics</h2>
-
-
-<br>
-
-
-
-
-
-
-
-<table style="width: 100%;
-      border-collapse: collapse; /* clean border */
-      border: 2px solid black;">
-  <tr>
-    <td style="padding: 10px;
-      text-align: left;
-      border-left: 2px solid black;">
-      <br>
-      <div align="center" style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;">
-
-  <!-- GitHub Stats Card -->
-  <div style="
-      background:#1e1e2f;
-      padding:20px;
-      border-radius:15px;
-      border:1px solid #ffffff30;
-      box-shadow:0 4px 15px rgba(0,0,0,0.3);
-      width:320px;">
-    <div style="border-bottom:1px solid white; padding-bottom:10px; margin-bottom:10px;">
-      <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=vishwa633&show_icons=true&theme=dark&hide_border=false" style="border-radius:10px; width:90%;" />
-    </div>
-  </div>
-  </div>
-      <br>
-        <div align="center" style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;">
-  <!-- Streak Stats Card -->
-  <div style="
-      background:#1e1e2f;
-      padding:20px;
-      border-radius:15px;
-      border:1px solid #ffffff30;
-      box-shadow:0 4px 15px rgba(0,0,0,0.3);
-      width:320px;">
-    <div style="border-bottom:1px solid white; padding-bottom:10px; margin-bottom:10px;">
-      <img  src="https://streak-stats.demolab.com?user=vishwa633&theme=dark&hide_border=false" 
-           style="border-radius:10px; width:90%;" />
-    </div>
-  </div>
+<div align="center">
+  <img width="410" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=vishwa633&amp;show_icons=true&amp;bg_color=102323&amp;title_color=efc489&amp;text_color=e2eee5&amp;icon_color=9fcbac&amp;border_color=466751" alt="GitHub statistics" />
+  <img width="410" src="https://streak-stats.demolab.com?user=vishwa633&amp;theme=dark&amp;background=102323&amp;border=466751&amp;ring=EFC489&amp;fire=EF8074&amp;currStreakLabel=EFC489" alt="GitHub contribution streak" />
+  <br />
+  <img width="410" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=vishwa633&amp;layout=compact&amp;langs_count=10&amp;bg_color=102323&amp;title_color=efc489&amp;text_color=e2eee5&amp;border_color=466751" alt="Most-used repository languages" />
 </div>
-<br>
-    </td>
-    <td style="padding: 10px;
-      text-align: left;
-      border-left: 2px solid black;">
-      <div align="center" style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center;">
-  <!-- Languages Card -->
-  <div style="
-      border-radius:15px;
-      border:5px solid white;
-      width:100%; max-width:450px;">
 
- 
+<details>
+<summary>GitHub trophies</summary>
+<br />
+<img src="https://github-profile-trophy.vercel.app/?username=vishwa633&amp;theme=onedark&amp;margin-w=8" alt="GitHub profile trophies" />
+</details>
 
-   ![Top Langs](https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=vishwa633&theme=dark&langs_count=10
-)
-
-   
-  </div>
-
+<div align="center">
+  <img width="880" src="https://raw.githubusercontent.com/Vishwa633/Vishwa633/output/github-snake-dark.svg" alt="Animated snake tracing my GitHub contributions" />
 </div>
-    </td>
-  </tr>
-  
-</table>
-
-
-
-  ![snake gif](https://github.com/Vishwa633/Vishwa633/blob/output/github-snake-dark.svg)
-
-
-
-
-
-
