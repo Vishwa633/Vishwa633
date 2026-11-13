@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="190" viewBox="0 0 860 190">
+<title>Agrolink</title><desc>A farming community app with crop information, Q&amp;A, and disease predictions from uploaded crop images.</desc>
+<defs><linearGradient id="bg"><stop stop-color="#112823"/><stop offset="1" stop-color="#122023"/></linearGradient><pattern id="grid" width="17" height="17" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#a6c6ae" opacity=".24"/></pattern></defs>
+<rect x="1" y="1" width="858" height="188" rx="17" fill="url(#bg)" stroke="#516b60" stroke-width="2"/><path d="M22 25v140" stroke="#f7a99c" stroke-width="3" stroke-linecap="round"/><rect x="686" y="13" width="160" height="164" rx="12" fill="url(#grid)"/>
+<g transform="translate(687 13)" fill="none" stroke="#f7a99c" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M40 115C20 64 72 36 128 37c1 56-30 97-88 78zm0 0 68-57m-46 38-6-26m22 12 29 2"/><path d="M20 44V25h20m92 0h20v19m0 77v20h-20m-92 0H20v-20" opacity=".5"/></g>
+<g font-family="Arial,sans-serif"><text x="41" y="37" fill="#f7a99c" font-size="14" font-weight="700" letter-spacing="2">03 / FULL-STACK PROJECT</text><text x="40" y="75" fill="#fffcf0" font-size="29" font-weight="700">Agrolink</text>
+<text x="41" y="106" fill="#cee1d8" font-size="17">A farming community app with crop information, Q&amp;A, and</text><text x="41" y="128" fill="#cee1d8" font-size="17">disease predictions from uploaded crop images.</text>
+<text x="42" y="160" fill="#f7a99c" font-size="14" font-weight="700">REACT  ·  NODE.JS  ·  EXPRESS  ·  MONGODB</text></g></svg>

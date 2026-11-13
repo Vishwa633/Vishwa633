@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="190" viewBox="0 0 860 190">
+<title>Smart Solar &amp; Grid Compliance</title><desc>Rooftop solar planning for Sri Lanka. I worked on the rule-based agent workflows for preliminary system sizing and compliance.</desc>
+<defs><linearGradient id="bg"><stop stop-color="#112823"/><stop offset="1" stop-color="#122023"/></linearGradient><pattern id="grid" width="17" height="17" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#a6c6ae" opacity=".24"/></pattern></defs>
+<rect x="1" y="1" width="858" height="188" rx="17" fill="url(#bg)" stroke="#516b60" stroke-width="2"/><path d="M22 25v140" stroke="#f2c58b" stroke-width="3" stroke-linecap="round"/><rect x="686" y="13" width="160" height="164" rx="12" fill="url(#grid)"/>
+<g transform="translate(687 13)" fill="none" stroke="#f2c58b" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="89" cy="34" r="12" fill="#f2c58b"/><path d="M40 63h71l19 48H20z M34 79h83M28 95h96M63 63l-5 48m30-48 7 48m-20 0v22m-24 0h50"/></g>
+<g font-family="Arial,sans-serif"><text x="41" y="37" fill="#f2c58b" font-size="14" font-weight="700" letter-spacing="2">01 / TEAM PROJECT</text><text x="40" y="75" fill="#fffcf0" font-size="29" font-weight="700">Smart Solar &amp; Grid Compliance</text>
+<text x="41" y="106" fill="#cee1d8" font-size="17">Rooftop solar planning for Sri Lanka. I worked on the rule-based</text><text x="41" y="128" fill="#cee1d8" font-size="17">agent workflows for preliminary system sizing and compliance.</text>
+<text x="42" y="160" fill="#f2c58b" font-size="14" font-weight="700">PYTHON  ·  FASTAPI  ·  LANGGRAPH</text></g></svg>

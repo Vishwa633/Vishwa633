@@ -2,7 +2,7 @@
 
 <h1>Vishwa Nethsara</h1>
 <p><strong>AI undergraduate · Full-stack developer · Sri Lanka</strong></p>
-<p>🎄 Happy holidays from Sri Lanka!</p>
+<p>❄️ December edition · Happy holidays from Sri Lanka! 🎄</p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-205945?style=for-the-badge)](https://portfolio-iota-ten-vj1uzrw2no.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-132739?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishwa-nethsara-00a0a3372/)
@@ -15,16 +15,19 @@
 
 ## About me
 
-I'm an IT undergraduate specialising in AI in Sri Lanka. I build machine learning projects and the interfaces people use to interact with them. I'm currently learning Java and Spring Boot alongside AI/ML. Ask me about Java or machine learning. I also think I'm funny.
+I'm an IT undergraduate specialising in AI in Sri Lanka. I build machine learning projects and the interfaces people use to interact with them. I'm currently learning Java and Spring Boot alongside AI/ML. Ask me about Java or machine learning.
 
 ## Selected projects
 
-| Project | What I worked on |
-| :--- | :--- |
-| **Smart Solar Installation & Grid Compliance** | Worked on rule-based LangGraph workflows for a team-built rooftop solar planning platform. The sizing workflow estimates system size, panel count and inverter size from monthly electricity usage. |
-| **[ChurnGuard AI](https://github.com/Vishwa633/Telecom-Customer-Churn-Prediction-System)** · [Live demo](https://churnguard-ai-theta.vercel.app) | Independently built a telecom churn prediction system with a reusable scikit-learn pipeline, FastAPI, React and Streamlit. |
-| **[Agrolink](https://github.com/Vishwa633/Agrolink)** | A farming community app with crop information, Q&A and image-based crop disease prediction. |
-| **[Loan Approval Prediction](https://github.com/Vishwa633/AIML-Loan_Prediction-)** | Independently built a notebook that preprocesses applicant data and compares classifiers for loan approval prediction. |
+<p><img src="./assets/december-projects/solar.svg" width="860" alt="Smart Solar and Grid Compliance — I worked on rule-based sizing and compliance workflows for rooftop solar planning." /></p>
+
+<p><a href="https://github.com/Vishwa633/Telecom-Customer-Churn-Prediction-System"><img src="./assets/december-projects/churn.svg" width="860" alt="ChurnGuard AI — an independently built telecom churn prediction application." /></a><br /> <a href="https://churnguard-ai-theta.vercel.app/">Open ChurnGuard live demo →</a></p>
+
+<p><a href="https://github.com/Vishwa633/Agrolink"><img src="./assets/december-projects/agro.svg" width="860" alt="Agrolink — a farming community app with crop disease prediction from images." /></a></p>
+
+<p><a href="https://github.com/Vishwa633/AIML-Loan_Prediction-"><img src="./assets/december-projects/loan.svg" width="860" alt="Loan Approval Prediction — an independently built classifier comparison notebook." /></a></p>
+
+<p align="right"><a href="https://github.com/Vishwa633?tab=repositories">Explore all repositories →</a></p>
 
 ## Languages, frameworks & tools
 
