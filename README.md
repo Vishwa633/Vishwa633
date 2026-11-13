@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Vishwa Nethsara</h1><p>December edition · Happy holidays from Sri Lanka</p>
+<img src="./assets/december-night/banner.svg" width="100%" alt="Vishwa Nethsara — AI undergraduate and full-stack developer in Sri Lanka. December edition." />
 
 <a href="https://portfolio-iota-ten-vj1uzrw2no.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-265748?style=for-the-badge" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/vishwa-nethsara-00a0a3372/"><img src="https://img.shields.io/badge/LinkedIn-233c4b?style=for-the-badge" alt="LinkedIn" /></a>
