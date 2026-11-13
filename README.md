@@ -8,7 +8,7 @@
 
 </div>
 
-<p><img src="./assets/themes/night/about-c7a7f2d765.svg" width="100%" alt="About me. IT undergraduate specialising in AI. I build models, APIs and interfaces. Open to AI/ML and data engineering internships." /></p>
+<p><img src="./assets/themes/night/about-layout2.svg" width="100%" alt="About me. IT undergraduate specialising in AI. I build models, APIs and interfaces. Open to AI/ML and data engineering internships." /></p>
 
 ## Selected projects
 
@@ -24,7 +24,7 @@
 
 <p><img src="./assets/themes/night/skills-66321e0822.svg" width="100%" alt="Tools I work with. Python, SQL, pandas, scikit-learn, TensorFlow, Jupyter, LangGraph, FastAPI, Java, Spring Boot, React, Node.js, Flutter, React Native and JavaScript." /></p>
 
-<p><img src="./assets/themes/night/activity-385b82ead6.svg" width="100%" alt="GitHub activity. Contributions, streaks and the contribution snake." /></p>
+<p><img src="./assets/themes/night/activity-layout2.svg" width="100%" alt="GitHub activity. Contributions, streaks and the contribution snake." /></p>
 
 <div align="center">
   <img width="400" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=vishwa633&amp;show_icons=true&amp;bg_color=0b111b&amp;title_color=77dace&amp;text_color=e2eee5&amp;icon_color=87b5d8&amp;border_color=293f55" alt="GitHub statistics" />
@@ -32,14 +32,11 @@
   <img width="100%" src="https://raw.githubusercontent.com/Vishwa633/Vishwa633/output/github-snake-dark.svg" alt="Animated snake tracing my GitHub contributions" />
 </div>
 
-<details>
-<summary>Top languages and GitHub trophies</summary>
-<br />
-<img width="410" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=vishwa633&amp;layout=compact&amp;langs_count=10&amp;bg_color=0b111b&amp;title_color=efc489&amp;text_color=e2eee5&amp;border_color=466751" alt="Most-used repository languages" />
-<img src="https://github-profile-trophy.vercel.app/?username=vishwa633&amp;theme=onedark&amp;margin-w=8" alt="GitHub profile trophies" />
-</details>
+<p align="center">
+<img width="650" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=vishwa633&amp;layout=compact&amp;langs_count=8&amp;card_width=650&amp;bg_color=0b111b&amp;title_color=77dace&amp;text_color=b7c9dc&amp;border_color=293f55&amp;border_radius=14&amp;v=layout2" alt="Languages used across my public repositories" />
+</p>
 
-<p><img src="./assets/themes/night/contact-385ba7eb50.svg" width="100%" alt="Get in touch. Open to talking about AI projects and internships." /></p>
+<p><a href="mailto:vishwanethsara633@gmail.com"><img src="./assets/themes/night/contact-layout2.svg" width="100%" alt="Get in touch. Open to talking about AI projects and internships." /></a></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vishwa-nethsara-00a0a3372/"><img width="56" height="56" src="./assets/themes/night/link-linkedin-866305c91d.svg" alt="LinkedIn" /></a>
