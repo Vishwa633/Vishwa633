@@ -19,13 +19,13 @@ I'm an IT undergraduate specialising in AI in Sri Lanka. I build machine learnin
 
 ## Selected projects
 
-<p><img src="./assets/december-projects/solar.svg" width="860" alt="Smart Solar and Grid Compliance — I worked on rule-based sizing and compliance workflows for rooftop solar planning." /></p>
+<p><img src="./assets/december-projects/solar.svg" width="100%" alt="Smart Solar and Grid Compliance — I worked on rule-based sizing and compliance workflows for rooftop solar planning." /></p>
 
-<p><a href="https://github.com/Vishwa633/Telecom-Customer-Churn-Prediction-System"><img src="./assets/december-projects/churn.svg" width="860" alt="ChurnGuard AI — an independently built telecom churn prediction application." /></a><br /> <a href="https://churnguard-ai-theta.vercel.app/">Open ChurnGuard live demo →</a></p>
+<p><a href="https://github.com/Vishwa633/Telecom-Customer-Churn-Prediction-System"><img src="./assets/december-projects/churn.svg" width="100%" alt="ChurnGuard AI — an independently built telecom churn prediction application." /></a><br /> <a href="https://churnguard-ai-theta.vercel.app/">Open ChurnGuard live demo →</a></p>
 
-<p><a href="https://github.com/Vishwa633/Agrolink"><img src="./assets/december-projects/agro.svg" width="860" alt="Agrolink — a farming community app with crop disease prediction from images." /></a></p>
+<p><a href="https://github.com/Vishwa633/Agrolink"><img src="./assets/december-projects/agro.svg" width="100%" alt="Agrolink — a farming community app with crop disease prediction from images." /></a></p>
 
-<p><a href="https://github.com/Vishwa633/AIML-Loan_Prediction-"><img src="./assets/december-projects/loan.svg" width="860" alt="Loan Approval Prediction — an independently built classifier comparison notebook." /></a></p>
+<p><a href="https://github.com/Vishwa633/AIML-Loan_Prediction-"><img src="./assets/december-projects/loan.svg" width="100%" alt="Loan Approval Prediction — an independently built classifier comparison notebook." /></a></p>
 
 <p align="right"><a href="https://github.com/Vishwa633?tab=repositories">Explore all repositories →</a></p>
 

@@ -1,8 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="190" viewBox="0 0 860 190">
-<title>Smart Solar &amp; Grid Compliance</title><desc>Rooftop solar planning for Sri Lanka. I worked on the rule-based agent workflows for preliminary system sizing and compliance.</desc>
-<defs><linearGradient id="bg"><stop stop-color="#112823"/><stop offset="1" stop-color="#122023"/></linearGradient><pattern id="grid" width="17" height="17" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#a6c6ae" opacity=".24"/></pattern></defs>
-<rect x="1" y="1" width="858" height="188" rx="17" fill="url(#bg)" stroke="#516b60" stroke-width="2"/><path d="M22 25v140" stroke="#f2c58b" stroke-width="3" stroke-linecap="round"/><rect x="686" y="13" width="160" height="164" rx="12" fill="url(#grid)"/>
-<g transform="translate(687 13)" fill="none" stroke="#f2c58b" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="89" cy="34" r="12" fill="#f2c58b"/><path d="M40 63h71l19 48H20z M34 79h83M28 95h96M63 63l-5 48m30-48 7 48m-20 0v22m-24 0h50"/></g>
-<g font-family="Arial,sans-serif"><text x="41" y="37" fill="#f2c58b" font-size="14" font-weight="700" letter-spacing="2">01 / TEAM PROJECT</text><text x="40" y="75" fill="#fffcf0" font-size="29" font-weight="700">Smart Solar &amp; Grid Compliance</text>
-<text x="41" y="106" fill="#cee1d8" font-size="17">Rooftop solar planning for Sri Lanka. I worked on the rule-based</text><text x="41" y="128" fill="#cee1d8" font-size="17">agent workflows for preliminary system sizing and compliance.</text>
-<text x="42" y="160" fill="#f2c58b" font-size="14" font-weight="700">PYTHON  ·  FASTAPI  ·  LANGGRAPH</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="270" viewBox="0 0 1000 270">
+<title>Solar &amp; Grid Compliance</title><desc>Rooftop solar planning, from survey to review. Worked on rule-based agent workflows for sizing and compliance. Sizing workflow: Read monthly electricity use, Estimate system and panel size, Validate recommendation</desc>
+<defs><linearGradient id="bg"><stop stop-color="#101921"/><stop offset="1" stop-color="#122420"/></linearGradient><pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1" fill="#91b7a3" opacity=".12"/></pattern></defs>
+<rect x="1" y="1" width="998" height="268" rx="18" fill="url(#bg)" stroke="#35534c" stroke-width="2"/>
+<rect x="650" y="55" width="317" height="180" rx="12" fill="#0c151b" stroke="#36544e"/>
+<rect x="651" y="56" width="315" height="178" rx="11" fill="url(#dots)"/>
+<path d="M33 51H967 M651 86H966" stroke="#304944"/>
+<g font-family="Arial,sans-serif">
+<text x="34" y="34" fill="#f2ce8e" font-size="13" font-weight="700" letter-spacing="2">PROJECT 01</text>
+<text x="34" y="102" fill="#f7faf5" font-size="34" font-weight="700">Solar &amp; Grid Compliance</text>
+<text x="35" y="139" fill="#f2ce8e" font-size="21" font-weight="700">Rooftop solar planning, from survey to review.</text>
+<text x="35" y="171" fill="#c4d7d1" font-size="16">Worked on rule-based agent workflows for sizing and compliance.</text>
+<rect x="34" y="196" width="585" height="37" rx="8" fill="#172c29" stroke="#2f4941"/>
+<text x="47" y="220" fill="#d8e9de" font-family="monospace" font-size="13">PYTHON  /  FASTAPI  /  LANGGRAPH</text>
+<text x="665" y="76" fill="#f2ce8e" font-size="13" font-weight="700">Sizing workflow</text>
+<rect x="661" y="117" width="294" height="28" rx="6" fill="#152725"/><circle cx="677" cy="131" r="3.5" fill="#f2ce8e"/><text x="691" y="136" fill="#e4eee7" font-size="14">Read monthly electricity use</text><rect x="661" y="153" width="294" height="28" rx="6" fill="#152725"/><circle cx="677" cy="167" r="3.5" fill="#f2ce8e"/><text x="691" y="172" fill="#e4eee7" font-size="14">Estimate system and panel size</text><rect x="661" y="189" width="294" height="28" rx="6" fill="#152725"/><circle cx="677" cy="203" r="3.5" fill="#f2ce8e"/><text x="691" y="208" fill="#e4eee7" font-size="14">Validate recommendation</text>
+</g><circle cx="930" cy="71" r="3.5" fill="#f2ce8e"/><circle cx="942" cy="71" r="3.5" fill="#536f63"/><circle cx="954" cy="71" r="3.5" fill="#304944"/>
+</svg>

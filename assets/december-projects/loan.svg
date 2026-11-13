@@ -1,8 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="190" viewBox="0 0 860 190">
-<title>Loan Approval Prediction</title><desc>I prepared applicant data and compared classifiers for predicting loan approval or rejection.</desc>
-<defs><linearGradient id="bg"><stop stop-color="#112823"/><stop offset="1" stop-color="#122023"/></linearGradient><pattern id="grid" width="17" height="17" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#a6c6ae" opacity=".24"/></pattern></defs>
-<rect x="1" y="1" width="858" height="188" rx="17" fill="url(#bg)" stroke="#516b60" stroke-width="2"/><path d="M22 25v140" stroke="#f2c58b" stroke-width="3" stroke-linecap="round"/><rect x="686" y="13" width="160" height="164" rx="12" fill="url(#grid)"/>
-<g transform="translate(687 13)" fill="none" stroke="#f2c58b" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="42" y="24" width="75" height="113" rx="9"/><path d="M57 53h44m-44 17h31m-29 31 12 12 28-31"/></g>
-<g font-family="Arial,sans-serif"><text x="41" y="37" fill="#f2c58b" font-size="14" font-weight="700" letter-spacing="2">04 / INDEPENDENT PROJECT</text><text x="40" y="75" fill="#fffcf0" font-size="29" font-weight="700">Loan Approval Prediction</text>
-<text x="41" y="106" fill="#cee1d8" font-size="17">I prepared applicant data and compared classifiers for</text><text x="41" y="128" fill="#cee1d8" font-size="17">predicting loan approval or rejection.</text>
-<text x="42" y="160" fill="#f2c58b" font-size="14" font-weight="700">PYTHON  ·  PANDAS  ·  SCIKIT-LEARN</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="270" viewBox="0 0 1000 270">
+<title>Loan Approval Prediction</title><desc>Compare classifiers on loan applicant data. Built the preprocessing and evaluation notebook independently. Model evaluation: Prepare application data, Train multiple classifiers, Compare evaluation results</desc>
+<defs><linearGradient id="bg"><stop stop-color="#101921"/><stop offset="1" stop-color="#122420"/></linearGradient><pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1" fill="#91b7a3" opacity=".12"/></pattern></defs>
+<rect x="1" y="1" width="998" height="268" rx="18" fill="url(#bg)" stroke="#35534c" stroke-width="2"/>
+<rect x="650" y="55" width="317" height="180" rx="12" fill="#0c151b" stroke="#36544e"/>
+<rect x="651" y="56" width="315" height="178" rx="11" fill="url(#dots)"/>
+<path d="M33 51H967 M651 86H966" stroke="#304944"/>
+<g font-family="Arial,sans-serif">
+<text x="34" y="34" fill="#f2ce8e" font-size="13" font-weight="700" letter-spacing="2">PROJECT 04</text>
+<text x="34" y="102" fill="#f7faf5" font-size="34" font-weight="700">Loan Approval Prediction</text>
+<text x="35" y="139" fill="#f2ce8e" font-size="21" font-weight="700">Compare classifiers on loan applicant data.</text>
+<text x="35" y="171" fill="#c4d7d1" font-size="16">Built the preprocessing and evaluation notebook independently.</text>
+<rect x="34" y="196" width="585" height="37" rx="8" fill="#172c29" stroke="#2f4941"/>
+<text x="47" y="220" fill="#d8e9de" font-family="monospace" font-size="13">PYTHON  /  PANDAS  /  SCIKIT-LEARN</text>
+<text x="665" y="76" fill="#f2ce8e" font-size="13" font-weight="700">Model evaluation</text>
+<rect x="661" y="117" width="294" height="28" rx="6" fill="#152725"/><circle cx="677" cy="131" r="3.5" fill="#f2ce8e"/><text x="691" y="136" fill="#e4eee7" font-size="14">Prepare application data</text><rect x="661" y="153" width="294" height="28" rx="6" fill="#152725"/><circle cx="677" cy="167" r="3.5" fill="#f2ce8e"/><text x="691" y="172" fill="#e4eee7" font-size="14">Train multiple classifiers</text><rect x="661" y="189" width="294" height="28" rx="6" fill="#152725"/><circle cx="677" cy="203" r="3.5" fill="#f2ce8e"/><text x="691" y="208" fill="#e4eee7" font-size="14">Compare evaluation results</text>
+</g><circle cx="930" cy="71" r="3.5" fill="#f2ce8e"/><circle cx="942" cy="71" r="3.5" fill="#536f63"/><circle cx="954" cy="71" r="3.5" fill="#304944"/>
+</svg>
