@@ -2,9 +2,9 @@
 
 <img src="./assets/themes/night/banner.svg" width="100%" alt="Vishwa Nethsara — AI undergraduate and full-stack developer in Sri Lanka. December edition." />
 
-<a href="https://portfolio-iota-ten-vj1uzrw2no.vercel.app/"><img width="160" src="./assets/themes/night/link-portfolio.svg" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/vishwa-nethsara-00a0a3372/"><img width="160" src="./assets/themes/night/link-linkedin.svg" alt="LinkedIn" /></a>
-<a href="mailto:vishwanethsara633@gmail.com"><img width="160" src="./assets/themes/night/link-email.svg" alt="Email" /></a>
+<a href="https://portfolio-iota-ten-vj1uzrw2no.vercel.app/"><img width="56" height="56" src="./assets/themes/night/link-portfolio.svg" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/vishwa-nethsara-00a0a3372/"><img width="56" height="56" src="./assets/themes/night/link-linkedin.svg" alt="LinkedIn" /></a>
+<a href="mailto:vishwanethsara633@gmail.com"><img width="56" height="56" src="./assets/themes/night/link-email.svg" alt="Email" /></a>
 
 </div>
 
@@ -42,7 +42,7 @@
 <p><img src="./assets/themes/night/contact.svg" width="100%" alt="Get in touch. Open to talking about AI projects and internships." /></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vishwa-nethsara-00a0a3372/"><img width="160" src="./assets/themes/night/link-linkedin.svg" alt="LinkedIn" /></a>
-  <a href="mailto:vishwanethsara633@gmail.com"><img width="160" src="./assets/themes/night/link-email.svg" alt="Email" /></a>
-  <a href="https://instagram.com/vishw.a633"><img width="160" src="./assets/themes/night/link-instagram.svg" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/vishwa-nethsara-00a0a3372/"><img width="56" height="56" src="./assets/themes/night/link-linkedin.svg" alt="LinkedIn" /></a>
+  <a href="mailto:vishwanethsara633@gmail.com"><img width="56" height="56" src="./assets/themes/night/link-email.svg" alt="Email" /></a>
+  <a href="https://instagram.com/vishw.a633"><img width="56" height="56" src="./assets/themes/night/link-instagram.svg" alt="Instagram" /></a>
 </p>
