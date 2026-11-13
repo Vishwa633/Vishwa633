@@ -14,13 +14,13 @@
 
 <p><img src="./assets/themes/night/solar-baa5212e05.svg" width="100%" alt="Smart Solar &amp; Grid Compliance. Rooftop solar planning for Sri Lanka. My work focused on rule-based sizing and compliance workflows. PYTHON · FASTAPI · LANGGRAPH. Solar sizing workflow: Read monthly electricity use, Estimate system and panel size, Validate the recommendation." /></p>
 
-<p><a href="https://github.com/Vishwa633/Telecom-Customer-Churn-Prediction-System"><img src="./assets/themes/night/churn-24cda4a617.svg" width="100%" alt="ChurnGuard AI. Telecom customer churn prediction. I built the model, prediction API and dashboards independently. SCIKIT-LEARN · FASTAPI · REACT · STREAMLIT. Prediction pipeline: Prepare customer features, Estimate churn probability, Prioritise accounts for review." /></a><br /><a href="https://churnguard-ai-theta.vercel.app/">Try the live ChurnGuard demo →</a></p>
+<p><a href="https://github.com/Vishwa633/Telecom-Customer-Churn-Prediction-System"><img src="./assets/themes/night/churn-24cda4a617.svg" width="100%" alt="ChurnGuard AI. Telecom customer churn prediction. I built the model, prediction API and dashboards independently. SCIKIT-LEARN · FASTAPI · REACT · STREAMLIT. Prediction pipeline: Prepare customer features, Estimate churn probability, Prioritise accounts for review." /></a></p>
 
 <p><a href="https://github.com/Vishwa633/Agrolink"><img src="./assets/themes/night/agro-8209bb16cb.svg" width="100%" alt="Agrolink. Crop disease prediction from an image. The farming community app also includes crop guides and Q&amp;A. REACT · NODE.JS · EXPRESS · MONGODB. Crop image workflow: Upload a crop image, Run disease prediction, Display the predicted disease." /></a></p>
 
 <p><a href="https://github.com/Vishwa633/AIML-Loan_Prediction-"><img src="./assets/themes/night/loan-fba5c9e3cf.svg" width="100%" alt="Loan Approval Prediction. Compare classifiers on applicant data. I built the preprocessing and evaluation notebook independently. PYTHON · PANDAS · SCIKIT-LEARN. Model evaluation: Prepare application data, Train classification models, Compare evaluation results." /></a></p>
 
-<p align="right"><a href="https://github.com/Vishwa633?tab=repositories">Explore all repositories →</a></p>
+<p align="center"><a href="https://github.com/Vishwa633?tab=repositories"><img width="270" src="./assets/themes/night/repositories-button-v1.svg" alt="Explore all repositories" /></a></p>
 
 <p><img src="./assets/themes/night/skills-66321e0822.svg" width="100%" alt="Tools I work with. Python, SQL, pandas, scikit-learn, TensorFlow, Jupyter, LangGraph, FastAPI, Java, Spring Boot, React, Node.js, Flutter, React Native and JavaScript." /></p>
 
@@ -33,7 +33,7 @@
 </div>
 
 <p align="center">
-<img width="650" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=vishwa633&amp;layout=compact&amp;langs_count=8&amp;card_width=650&amp;bg_color=0b111b&amp;title_color=77dace&amp;text_color=b7c9dc&amp;border_color=293f55&amp;border_radius=14&amp;v=layout2" alt="Languages used across my public repositories" />
+<img width="100%" src="./assets/themes/night/languages-bars-v1.svg" alt="Languages used across public repositories" />
 </p>
 
 <p><a href="mailto:vishwanethsara633@gmail.com"><img src="./assets/themes/night/contact-layout2.svg" width="100%" alt="Get in touch. Open to talking about AI projects and internships." /></a></p>
