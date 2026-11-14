@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/themes/day/banner-b1bc6d31f1-snowfdb78aea-emerald.svg" width="100%" alt="Vishwa Nethsara — AI undergraduate and full-stack developer in Sri Lanka. December edition." />
+<img src="./assets/themes/day/banner-b1bc6d31f1-snowfdb78aea-emerald-border.svg" width="100%" alt="Vishwa Nethsara — AI undergraduate and full-stack developer in Sri Lanka. December edition." />
 
 <a href="https://portfolio-iota-ten-vj1uzrw2no.vercel.app/"><img width="56" height="56" src="./assets/themes/day/link-portfolio-844014614c-emerald.svg" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/vishwa-nethsara-00a0a3372/"><img width="56" height="56" src="./assets/themes/day/link-linkedin-866305c91d-emerald.svg" alt="LinkedIn" /></a>
@@ -8,23 +8,23 @@
 
 </div>
 
-<p><img src="./assets/themes/day/about-layout2-snowaf251f7f-emerald.svg" width="100%" alt="About me. IT undergraduate specialising in AI. I build models, APIs and interfaces. Open to AI/ML and data engineering internships." /></p>
+<p><img src="./assets/themes/day/about-layout2-snowaf251f7f-emerald-border.svg" width="100%" alt="About me. IT undergraduate specialising in AI. I build models, APIs and interfaces. Open to AI/ML and data engineering internships." /></p>
 
 ## Selected projects
 
-<p><img src="./assets/themes/day/solar-baa5212e05-snowa6a7ce67-emerald.svg" width="100%" alt="Smart Solar &amp; Grid Compliance. Rooftop solar planning for Sri Lanka. My work focused on rule-based sizing and compliance workflows. PYTHON · FASTAPI · LANGGRAPH. Solar sizing workflow: Read monthly electricity use, Estimate system and panel size, Validate the recommendation." /></p>
+<p><img src="./assets/themes/day/solar-baa5212e05-snowa6a7ce67-emerald-border.svg" width="100%" alt="Smart Solar &amp; Grid Compliance. Rooftop solar planning for Sri Lanka. My work focused on rule-based sizing and compliance workflows. PYTHON · FASTAPI · LANGGRAPH. Solar sizing workflow: Read monthly electricity use, Estimate system and panel size, Validate the recommendation." /></p>
 
-<p><a href="https://github.com/Vishwa633/Telecom-Customer-Churn-Prediction-System"><img src="./assets/themes/day/churn-24cda4a617-snowae77335f-emerald.svg" width="100%" alt="ChurnGuard AI. Telecom customer churn prediction. I built the model, prediction API and dashboards independently. SCIKIT-LEARN · FASTAPI · REACT · STREAMLIT. Prediction pipeline: Prepare customer features, Estimate churn probability, Prioritise accounts for review." /></a></p>
+<p><a href="https://github.com/Vishwa633/Telecom-Customer-Churn-Prediction-System"><img src="./assets/themes/day/churn-24cda4a617-snowae77335f-emerald-border.svg" width="100%" alt="ChurnGuard AI. Telecom customer churn prediction. I built the model, prediction API and dashboards independently. SCIKIT-LEARN · FASTAPI · REACT · STREAMLIT. Prediction pipeline: Prepare customer features, Estimate churn probability, Prioritise accounts for review." /></a></p>
 
-<p><a href="https://github.com/Vishwa633/Agrolink"><img src="./assets/themes/day/agro-8209bb16cb-snowa638fef1-emerald.svg" width="100%" alt="Agrolink. Crop disease prediction from an image. The farming community app also includes crop guides and Q&amp;A. REACT · NODE.JS · EXPRESS · MONGODB. Crop image workflow: Upload a crop image, Run disease prediction, Display the predicted disease." /></a></p>
+<p><a href="https://github.com/Vishwa633/Agrolink"><img src="./assets/themes/day/agro-8209bb16cb-snowa638fef1-emerald-border.svg" width="100%" alt="Agrolink. Crop disease prediction from an image. The farming community app also includes crop guides and Q&amp;A. REACT · NODE.JS · EXPRESS · MONGODB. Crop image workflow: Upload a crop image, Run disease prediction, Display the predicted disease." /></a></p>
 
-<p><a href="https://github.com/Vishwa633/AIML-Loan_Prediction-"><img src="./assets/themes/day/loan-fba5c9e3cf-snowfd45eb2f-emerald.svg" width="100%" alt="Loan Approval Prediction. Compare classifiers on applicant data. I built the preprocessing and evaluation notebook independently. PYTHON · PANDAS · SCIKIT-LEARN. Model evaluation: Prepare application data, Train classification models, Compare evaluation results." /></a></p>
+<p><a href="https://github.com/Vishwa633/AIML-Loan_Prediction-"><img src="./assets/themes/day/loan-fba5c9e3cf-snowfd45eb2f-emerald-border.svg" width="100%" alt="Loan Approval Prediction. Compare classifiers on applicant data. I built the preprocessing and evaluation notebook independently. PYTHON · PANDAS · SCIKIT-LEARN. Model evaluation: Prepare application data, Train classification models, Compare evaluation results." /></a></p>
 
-<p align="center"><a href="https://github.com/Vishwa633?tab=repositories"><img width="270" src="./assets/themes/day/repositories-button-v1-emerald.svg" alt="Explore all repositories" /></a></p>
+<p align="center"><a href="https://github.com/Vishwa633?tab=repositories"><img width="270" src="./assets/themes/day/repositories-button-v1-emerald-border.svg" alt="Explore all repositories" /></a></p>
 
-<p><img src="./assets/themes/day/skills-66321e0822-snow82ef9b62-emerald.svg" width="100%" alt="Tools I work with. Python, SQL, pandas, scikit-learn, TensorFlow, Jupyter, LangGraph, FastAPI, Java, Spring Boot, React, Node.js, Flutter, React Native and JavaScript." /></p>
+<p><img src="./assets/themes/day/skills-66321e0822-snow82ef9b62-emerald-border.svg" width="100%" alt="Tools I work with. Python, SQL, pandas, scikit-learn, TensorFlow, Jupyter, LangGraph, FastAPI, Java, Spring Boot, React, Node.js, Flutter, React Native and JavaScript." /></p>
 
-<p><img src="./assets/themes/day/activity-layout2-snowf9c14c1e-emerald.svg" width="100%" alt="GitHub activity. Contributions, streaks and the contribution snake." /></p>
+<p><img src="./assets/themes/day/activity-layout2-snowf9c14c1e-emerald-border.svg" width="100%" alt="GitHub activity. Contributions, streaks and the contribution snake." /></p>
 
 <div align="center">
   <img width="400" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=vishwa633&amp;show_icons=true&amp;bg_color=0b111b&amp;title_color=77dace&amp;text_color=e2eee5&amp;icon_color=87b5d8&amp;border_color=293f55" alt="GitHub statistics" />
@@ -33,10 +33,10 @@
 </div>
 
 <p align="center">
-<img width="100%" src="./assets/themes/day/languages-bars-v2-emerald.svg" alt="Languages used across public repositories" />
+<img width="100%" src="./assets/themes/day/languages-bars-v2-emerald-border.svg" alt="Languages used across public repositories" />
 </p>
 
-<p><a href="mailto:vishwanethsara633@gmail.com"><img src="./assets/themes/day/contact-layout2-snow502bce1b-emerald.svg" width="100%" alt="Get in touch. Open to talking about AI projects and internships." /></a></p>
+<p><a href="mailto:vishwanethsara633@gmail.com"><img src="./assets/themes/day/contact-layout2-snow502bce1b-emerald-border.svg" width="100%" alt="Get in touch. Open to talking about AI projects and internships." /></a></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vishwa-nethsara-00a0a3372/"><img width="56" height="56" src="./assets/themes/day/link-linkedin-866305c91d-emerald.svg" alt="LinkedIn" /></a>

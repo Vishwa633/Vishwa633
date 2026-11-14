@@ -18,12 +18,14 @@ date=datetime.now(ZoneInfo("Asia/Colombo")).strftime("%d %b %Y")
 for mode in ("day","night"):
     bg,edge,accent,muted,bar=("#081f20","#285453","#6de3bd","#b8d8ce","#65c4a5") if mode=="day" else ("#090f19","#263b50","#72dcd5","#a5bbd0","#77abc4")
     palette=["#8fbfe8","#80cec6","#b2a5df","#92c6b3","#c6b2d6","#9fb5de","#98c5d1"]
+    outline="#26c985" if mode=="day" else edge
+    outline_width=3 if mode=="day" else 2
     height=140+len(items)*39
-    svg=f'<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="{height}" viewBox="0 0 1000 {height}"><title>Repository languages</title><rect x="1" y="1" width="998" height="{height-2}" rx="18" fill="{bg}" stroke="{edge}" stroke-width="2"/><g font-family="Arial,sans-serif"><text x="38" y="49" fill="#edf5ff" font-size="30" font-weight="700">Repository languages</text><text x="39" y="78" fill="{muted}" font-size="15">Public repository code · updated {date}</text>'
+    svg=f'<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="{height}" viewBox="0 0 1000 {height}"><title>Repository languages</title><rect x="1" y="1" width="998" height="{height-2}" rx="18" fill="{bg}" stroke="{outline}" stroke-width="{outline_width}"/><g font-family="Arial,sans-serif"><text x="38" y="49" fill="#edf5ff" font-size="30" font-weight="700">Repository languages</text><text x="39" y="78" fill="{muted}" font-size="15">Public repository code · updated {date}</text>'
     for i,(name,pct) in enumerate(items):
         y=108+i*39
         bar=palette[i%len(palette)]
         svg+=f'<text x="39" y="{y+15}" fill="{muted}" font-size="17">{escape(name)}</text><rect x="263" y="{y+5}" width="580" height="7" rx="3.5" fill="{edge}"/><rect x="263" y="{y+5}" width="{max(2,580*pct/100):.2f}" height="7" rx="3.5" fill="{bar}"/><text x="948" y="{y+15}" text-anchor="end" fill="{accent}" font-size="16">{pct:.2f}%</text>'
     svg+='</g></svg>'
     E.fromstring(svg)
-    (root/f"assets/themes/{mode}/languages-bars-v2-emerald.svg").write_text(svg,encoding="utf-8")
+    (root/f"assets/themes/{mode}/languages-bars-v2-emerald-border.svg").write_text(svg,encoding="utf-8")
