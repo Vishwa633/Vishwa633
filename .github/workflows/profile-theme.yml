@@ -1,7 +1,7 @@
 name: Profile day and night theme
 on:
   schedule:
-    - cron: '30 0,12 * * *'
+    - cron: '7,22,37,52 * * * *'
   workflow_dispatch:
   push:
     paths:
